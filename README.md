@@ -2,7 +2,8 @@
 
 # Un apasionado de la Ingeniería de Datos 🚀
 
-Soy un profesional autodidacta con una gran pasión por el mundo de los datos y la tecnología. Actualmente, curso el segundo año en **Administración de Empresas (ADE)** en el Instituto Profesional Latinoamericano de Comercio Exterior (IPLACEX), donde estoy perfeccionando mis habilidades en gestión empresarial.
+Técnico en Administración de Empresas y estudiante de Ingeniería Informática.
+Apasionado por los datos y la tecnología, con enfoque autodidacta y orientado a crear soluciones que optimicen procesos y mejoren la toma de decisiones.
 
 Además, he estado formándome de manera autodidacta en **Ingeniería de Datos**, realizando diversos proyectos personales que reflejan mi interés en esta área. Aquí en GitHub y en mi Linkedin, podrás encontrar algunos de mis proyectos más destacados, incluyendo:
 
@@ -15,7 +16,7 @@ Además, he estado formándome de manera autodidacta en **Ingeniería de Datos**
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes**: Python, SQL, JavaScript
 - **Frameworks y Librerías**: FastAPI, Pandas, PySpark, Django
-- **Bases de Datos**: PostgreSQL, MySQL
+- **Bases de Datos**: PostgreSQL, MySQL, Oracle, MongoDB
 - **Cloud y DevOps**: AWS (con experiencia en S3, IAM, EC2, Lambda, Glue), Docker, Git
 
 ## 🎯 Objetivos y Metas
